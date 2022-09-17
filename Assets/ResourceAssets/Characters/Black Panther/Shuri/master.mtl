@@ -1,0 +1,39 @@
+newmtl 00nose material
+map_Ka mat0_c.jpg
+map_Kd mat0_c.jpg
+newmtl 01suit
+map_Ka mat1_c.jpg
+map_Kd mat1_c.jpg
+newmtl 02helmet base
+map_Ka mat0_c.jpg
+map_Kd mat0_c.jpg
+newmtl 03 metal face pieces
+map_Ka mat3_c.jpg
+map_Kd mat3_c.jpg
+newmtl 04eye piece
+map_Ka mat0_c.jpg
+map_Kd mat0_c.jpg
+newmtl 05eyematerial
+map_Ka mat5_c.jpg
+map_Kd mat5_c.jpg
+newmtl 06claw pieces
+map_Ka mat0_c.jpg
+map_Kd mat0_c.jpg
+newmtl 07knuckle pieces
+map_Ka mat0_c.jpg
+map_Kd mat0_c.jpg
+newmtl 08pads material
+map_Ka mat0_c.jpg
+map_Kd mat0_c.jpg
+newmtl 09metal pieces
+map_Ka mat0_c.jpg
+map_Kd mat0_c.jpg
+newmtl 10necklace material
+map_Ka mat0_c.jpg
+map_Kd mat0_c.jpg
+newmtl 11 shoe soles
+map_Ka mat0_c.jpg
+map_Kd mat0_c.jpg
+newmtl 12 toe claws
+map_Ka mat0_c.jpg
+map_Kd mat0_c.jpg

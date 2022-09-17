@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="InfinityWar" size="0.066667 0.098734" />
+    <ImageTarget name="AgeOfUltron" size="0.066667 0.098734" />
+    <ImageTarget name="Thor" size="0.066667 0.098734" />
+    <ImageTarget name="EndGame" size="0.066667 0.098800" />
+    <ImageTarget name="Spiderman" size="0.066667 0.098734" />
+    <ImageTarget name="IronMan" size="0.066667 0.098815" />
+    <ImageTarget name="Hulk" size="0.066667 0.098717" />
+    <ImageTarget name="Hawkeye" size="0.066667 0.098734" />
+    <ImageTarget name="DoctorStrange" size="0.066667 0.098734" />
+    <ImageTarget name="CaptainAmerica" size="0.066667 0.098766" />
+    <ImageTarget name="BlackWidow" size="0.066667 0.098800" />
+    <ImageTarget name="BlackPanther" size="0.066667 0.098834" />
+  </Tracking>
+</QCARConfig>

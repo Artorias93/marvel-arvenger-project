@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CardRecognition.unity
+    guid: dda6979d55a334743ad9e7f9438c6d0e
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 5a9abc59bf1c68b4a850b37c128875bd, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 91c28f439b8ad0b419ddcdba029b42c4, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6715bd31cf709814d8f7de1543d2da56, type: 2}
